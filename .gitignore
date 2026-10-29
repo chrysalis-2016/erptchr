@@ -1,0 +1,14 @@
+node_modules
+.npm-cache
+.next
+dist
+.env*
+!.env.example
+.vercel
+.vercel-cli-cache
+.vercel-cli-config
+.vercel-cli-data
+.staff-import/
+
+.vercel
+.env*
